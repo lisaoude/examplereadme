@@ -44,7 +44,7 @@ Als je [hier klikt](https://raw.githubusercontent.com/lisaoude/examplereadme/mai
 
 </br>
 
-*_Hieronder begint de voorbeeld README!_*
+_Hieronder begint de voorbeeld README!_
 
 </br>
 
