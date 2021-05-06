@@ -18,15 +18,20 @@ Via [deze link](https://github.com/ikatyang/emoji-cheat-sheet) vind je een lijst
 
 </br> 
 
-Voor het toevoegen van afbeeldingen kun je het beste je afbeelding uploaden bij je issues in GitHub. Klik bovenaan op 'Issues' > 'New issue' > sleep je afbeelding er in > kopieer & plak de tekst in je README.md file (helemaal, dus `![alt-tekst](link)`) > de issue kun je gewoon weer wegklikken
+Voor het toevoegen van afbeeldingen kun je het beste je afbeelding uploaden bij je issues in GitHub.  
+- Klik bovenaan op 'Issues'
+- 'New issue'
+- Sleep je afbeelding erin
+- Kopieer & plak de tekst in je README.md file (helemaal, dus `![alt-tekst](link)`)
+- De issue kun je gewoon weer wegklikken
 
 </br>
 
-Ook vind ik het fijn om tussen stukken teksten een ````</br>``` te zetten, dan blijft er wat ruimte tussen de verschillende alinea's.
+Ook vind ik het fijn om tussen stukken teksten een `</br>` te zetten, dan blijft er wat ruimte tussen de verschillende alinea's.
 
 </br>
 
-En ook lijnen tussen paragrafen vind ik mooi staan & lekker lezen. Dat doe je door ```---``` onderaan je paragraaf toe te voegen.
+En ook lijnen tussen paragrafen vind ik mooi staan & lekker lezen. Dat doe je door `---` onderaan je paragraaf toe te voegen.
 
 </br>
 
@@ -68,7 +73,7 @@ Wij hebben gekozen voor de _To Do App / 'Webshop' frontend overview page / Landi
 ## :gem: Ons eindproduct
 
 In ons eindproduct zijn de volgende onderdelen terug te vinden:
-- Tip: kijk even bij de case wat er in moest
+- Tip: kijk even bij de case wat erin moest
 - Voeg toe wat je eventueel extra hebt toegevoegd
 - Benoem de 4 UI Principles (alleen bij naam)
 
@@ -85,32 +90,32 @@ In ons eindproduct zijn een aantal UI Principles verwerkt.
 ### 01 - Principle 1
 Omschrijving van deze principle (algemeen)  
 
-Deze UI Principle is in ons project terug te vinden bij/in... (beschrijf kort hoe dit principle er in zit)  
-_Voeg ook even een screenshot toe van de eindproduct waarbij deze principle te zien is!_
+Deze UI Principle is in ons project terug te vinden bij/in... (beschrijf kort hoe dit principle erin zit)  
+_Voeg ook even een screenshot toe van het eindproduct waarbij deze principle te zien is!_
 
 </br>
 
 ### 02 - Principle 2
 Omschrijving van deze principle (algemeen)  
 
-Deze UI Principle is in ons project terug te vinden bij/in... (beschrijf kort hoe dit principle er in zit)  
-_Voeg ook even een screenshot toe van de eindproduct waarbij deze principle te zien is!_
+Deze UI Principle is in ons project terug te vinden bij/in... (beschrijf kort hoe dit principle erin zit)  
+_Voeg ook even een screenshot toe van het eindproduct waarbij deze principle te zien is!_
 
 </br>
 
 ### 03 - Principle 3
 Omschrijving van deze principle (algemeen)  
 
-Deze UI Principle is in ons project terug te vinden bij/in... (beschrijf kort hoe dit principle er in zit)  
-_Voeg ook even een screenshot toe van de eindproduct waarbij deze principle te zien is!_
+Deze UI Principle is in ons project terug te vinden bij/in... (beschrijf kort hoe dit principle erin zit)  
+_Voeg ook even een screenshot toe van het eindproduct waarbij deze principle te zien is!_
 
 </br>
 
 ### 04 - Principle 4
 Omschrijving van deze principle (algemeen)  
 
-Deze UI Principle is in ons project terug te vinden bij/in... (beschrijf kort hoe dit principle er in zit)  
-_Voeg ook even een screenshot toe van de eindproduct waarbij deze principle te zien is!_
+Deze UI Principle is in ons project terug te vinden bij/in... (beschrijf kort hoe dit principle erin zit)  
+_Voeg ook even een screenshot toe van het eindproduct waarbij deze principle te zien is!_
 
 </br>
 
@@ -120,7 +125,7 @@ _Voeg ook even een screenshot toe van de eindproduct waarbij deze principle te z
 <!-------------------------- New Paragraph -------------------------->
 
 ## :books: Bronnen
-Als je belangrijke bronnen hebt gebruikt, kun je die hier bij zetten. Ik vind de manier hieronder de meest nette manier van noteren :smile:.
+Als je belangrijke bronnen hebt gebruikt, kun je die hierbij zetten. Ik vind de manier hieronder de meest nette manier van noteren :smile:.
 
 - MDN. Math.random() (2021, April 23). Geraadpleegd op 6 mei, 2021, from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
-- MDN. Math.random() (2021, April 23). Geraadpleegd op 6 mei, 2021, from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
+- MDN. Math.random() (2021, April 23). Geraadpleegd op 6 mei, 2021, from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)git add
