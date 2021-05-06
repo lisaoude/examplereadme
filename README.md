@@ -42,7 +42,9 @@ Als je [hier klikt](https://raw.githubusercontent.com/lisaoude/examplereadme/mai
 <!-------------------------- New Paragraph -------------------------->
 <!-- Deze comments vind ik handig om delen tekst uit elkaar te houden, maar zijn niet nodig hoor :) -->
 
-**Hieronder begint de voorbeeld README!**
+</br>
+
+*_Hieronder begint de voorbeeld README!_*
 
 </br>
 
