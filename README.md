@@ -130,4 +130,4 @@ _Voeg ook even een screenshot toe van het eindproduct waarbij deze principle te 
 Als je belangrijke bronnen hebt gebruikt, kun je die hierbij zetten. Ik vind de manier hieronder de meest nette manier van noteren :smile:.
 
 - MDN. Math.random() (2021, April 23). Geraadpleegd op 6 mei, 2021, from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
-- MDN. Math.random() (2021, April 23). Geraadpleegd op 6 mei, 2021, from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)git add
+- MDN. Math.random() (2021, April 23). Geraadpleegd op 6 mei, 2021, from [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
